@@ -243,6 +243,9 @@ body {
 .profile-img {
   width: 16rem;
   height: 16rem;
+  border-radius:50%;
+}
+.portfolio-container{
   border-radius: 50%;
 }
 
@@ -250,7 +253,10 @@ body {
   .profile-img {
       width: 18rem;
       height: 18rem;
+      border-radius:50%;
+
   }
+  
 }
 
 @media screen and (min-width: 1024px) {
@@ -261,6 +267,7 @@ body {
   .profile-img {
       width: 24rem;
       height: 24rem;
+      border-radius: 100%;
   }
 }
 /* ********************************************************************************************************************* */
