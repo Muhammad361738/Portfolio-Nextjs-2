@@ -223,6 +223,7 @@ body {
 .social-list {
   list-style: none;
   display: flex;
+  /* align-items: center; */
   gap: 1rem;
   justify-content: center;
 }
@@ -289,6 +290,7 @@ body {
   height: 100%;
   background-color:rgb(74, 74, 133);
   padding-top: 1rem;
+  
   /* padding-bottom: 4rem; */
 
 }
@@ -314,6 +316,7 @@ body {
 }
 
 .image-wrapper {
+
   text-align: center;
 }
 
